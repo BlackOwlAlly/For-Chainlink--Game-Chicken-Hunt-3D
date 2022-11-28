@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": false
+		},
+		{
+			"Name": "WebBrowserWidget",
+			"Enabled": true
+		},
+		{
+			"Name": "Defungify_Plugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e5df4254b4ab4a6096b8e8e99ae00dcf"
+		},
+		{
+			"Name": "Etherlinker",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e029bbf9d6b04f95b9d9ef52e3934be5"
+		}
+	]
+}
